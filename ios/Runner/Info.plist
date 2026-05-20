@@ -53,7 +53,8 @@
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
 	<string>Main</string>
-
+	<key>UIRequiresFullScreen</key>
+	<true/>
 	<!-- ══════ İzin Açıklamaları ══════ -->
 	<key>NSCameraUsageDescription</key>
 	<string>QR kod okutarak giriş/çıkış yapabilmek için kamera erişimi gereklidir.</string>
